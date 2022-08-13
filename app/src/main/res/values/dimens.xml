@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen tools:override="true" name="mtrl_card_spacing">8dp</dimen>
+    <dimen tools:override="true" name="mtrl_chip_pressed_translation_z">3dp</dimen>
+    <dimen tools:override="true" name="mtrl_chip_text_size">14sp</dimen>
+    <dimen name="word_size">26sp</dimen>
+    <dimen name="word_item_size">18sp</dimen>
+    <dimen name="word_item_paddingBottom">8dp</dimen>
+    <dimen name="word_item_paddingEnd">6dp</dimen>
+    <dimen name="word_paddingRight">8dp</dimen>
+    <dimen name="cardView_margin">16dp</dimen>
+</resources>

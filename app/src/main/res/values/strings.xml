@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Owlbot dictionary</string>
+    <string name="url_dictionary">https://owlbot.info/api/v3/dictionary/</string>
+    <string name="input_invalid_message_toast">That word is not valid. Try again.</string>
+    <string name="credentials">Token e7b135e0905fd7580bd986ec403f9cb94960b8ce</string>
+    <string name="image_description_text">Image of searched word</string>
+    <string name="definition_number">1.</string>
+    <string name="example_item_text">Example text</string>
+    <string name="tool_definition_text">a nocturnal bird of prey with large eyes, a facial disc, a hooked beak, and typically a loud hooting call.</string>
+    <string name="search_button_text">Search</string>
+    <string name="tool_word_text">owl</string>
+    <string name="tool_pronunciation_text">/oul/</string>
+    <string name="edit_hint_text">Enter a word</string>
+    <string name="example_item_title">Example: </string>
+    <string name="activity1">Owlbot</string>
+</resources>

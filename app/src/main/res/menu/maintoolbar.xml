@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/activity3"
+        android:title="Activity3"
+        android:orderInCategory="25"
+        app:showAsAction="always"
+        android:icon="@drawable/dictionary"/>
+
+    <item
+        android:id="@+id/action_search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:orderInCategory="100"
+        app:showAsAction="always|collapseActionView"
+        android:title="TODO" />
+
+
+</menu>
